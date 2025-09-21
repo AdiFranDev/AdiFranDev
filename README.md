@@ -18,7 +18,7 @@
 
 **Currently studying:** Junior Computer Science Student at the University of Science and Technology of Southern Philippines - Cagayan de Oro Campus
 
-**Interests:** Software Engineering, Student Leadership, Tech for Agriculture & Health, Open Source Development
+**Interests:** Software Engineering, Student Leadership, Tech for Agriculture & Health, Open Source Development, & Research
 
 **Mission:** Creating innovative solutions that make a difference in agriculture and healthcare
 
