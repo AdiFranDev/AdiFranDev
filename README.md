@@ -24,10 +24,6 @@
 
 **Location:** Cagayan de Oro, Philippines
 
-<div align="center">
-<sup><small>Tres Marias • Chuaya & Adi</small></sup>
-</div>
-
 ---
 
 <div align="center">
@@ -201,6 +197,19 @@ Personal Email
 
 <img src="https://github-profile-trophy.vercel.app/?username=AdiFranDev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
+</div>
+
+---
+
+<div align="center">
+<sup><small>Tres Marias
+<br/>
+  Tope & Ella
+</small></sup>
+</div>
+
+<div align="center">
+<sup><small>Chuaya 💝 Adi</small></sup>
 </div>
 
 ---
