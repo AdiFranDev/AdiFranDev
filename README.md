@@ -73,6 +73,45 @@ Personal Email
 
 ---
 
+## Featured Projects
+
+<div align="center">
+
+### Urban Evacuation Routing System for Cagayan de Oro
+*Completed Research Project - Comprehensive evacuation routing system for Downtown District 2 using advanced graph algorithms and real-world geographic data*
+
+**[GitHub Repository](https://github.com/AdiFranDev/Capacity-Scaled-Edmonds-Karp-Algorithm/tree/main/CSEK%20FINAL)** | **[Research Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)**
+
+<img src="https://img.shields.io/badge/Algorithm-Capacity_Scaled_Edmonds_Karp-28a745?style=for-the-badge&logo=github&logoColor=white" alt="CSEK Algorithm" />
+<img src="https://img.shields.io/badge/Data_Source-OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+<img src="https://img.shields.io/badge/Status-Research_Published-success?style=for-the-badge&logo=academia&logoColor=white" alt="Research Published" />
+
+*Features: OpenStreetMap data processing pipeline, interactive web visualization, real-world evacuation flow modeling, and comprehensive urban disaster preparedness solution*
+
+---
+
+## Under Development Projects
+
+### Personal Portfolio Website
+*In Development - Interactive showcase of my journey, projects, and skills - featuring responsive design, dark/light themes, and seamless user experience*
+
+**[GitHub Repository](https://github.com/AdiFranDev/portfolio)** | *Live Demo Coming Soon*
+
+<img src="https://img.shields.io/badge/Built_with-React_&_Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Built with React & Next.js" />
+<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=github&logoColor=white" alt="In Development" />
+
+### Agricultural Innovation Hub
+*Coming Soon - A comprehensive platform connecting farmers with modern agricultural technology and data-driven insights*
+
+### Guidance Services Unit Appointment System
+*In Development - A web-based appointment booking system for USTP's Guidance Services Unit, featuring real-time scheduling, resource management, and student accessibility improvements*
+
+<img src="https://img.shields.io/badge/More_projects_coming_soon...-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="More Projects Coming Soon" />
+
+</div>
+
+---
+
 <div align="center">
 
 ## Technical Skills
@@ -136,45 +175,6 @@ Personal Email
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-### Urban Evacuation Routing System for Cagayan de Oro
-*Completed Research Project - Comprehensive evacuation routing system for Downtown District 2 using advanced graph algorithms and real-world geographic data*
-
-**[GitHub Repository](https://github.com/AdiFranDev/Capacity-Scaled-Edmonds-Karp-Algorithm/tree/main/CSEK%20FINAL)** | **[Research Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)**
-
-<img src="https://img.shields.io/badge/Algorithm-Capacity_Scaled_Edmonds_Karp-28a745?style=for-the-badge&logo=github&logoColor=white" alt="CSEK Algorithm" />
-<img src="https://img.shields.io/badge/Data_Source-OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
-<img src="https://img.shields.io/badge/Status-Research_Published-success?style=for-the-badge&logo=academia&logoColor=white" alt="Research Published" />
-
-*Features: OpenStreetMap data processing pipeline, interactive web visualization, real-world evacuation flow modeling, and comprehensive urban disaster preparedness solution*
-
----
-
-## Under Development Projects
-
-### Personal Portfolio Website
-*In Development - Interactive showcase of my journey, projects, and skills - featuring responsive design, dark/light themes, and seamless user experience*
-
-**[GitHub Repository](https://github.com/AdiFranDev/portfolio)** | *Live Demo Coming Soon*
-
-<img src="https://img.shields.io/badge/Built_with-React_&_Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Built with React & Next.js" />
-<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=github&logoColor=white" alt="In Development" />
-
-### Agricultural Innovation Hub
-*Coming Soon - A comprehensive platform connecting farmers with modern agricultural technology and data-driven insights*
-
-### Guidance Services Unit Appointment System
-*In Development - A web-based appointment booking system for USTP's Guidance Services Unit, featuring real-time scheduling, resource management, and student accessibility improvements*
-
-<img src="https://img.shields.io/badge/More_projects_coming_soon...-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="More Projects Coming Soon" />
-
-</div>
-
----
-
 <div align="center">
 
 ## GitHub Statistics
@@ -196,11 +196,14 @@ Personal Email
 
 <div align="center">
 
+
 ## GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=AdiFranDev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 </div>
+
+---
 
 <div align="center">
 
@@ -208,3 +211,4 @@ Personal Email
 
 </div>
 
+---
