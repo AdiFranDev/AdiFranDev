@@ -2,6 +2,9 @@
 
 # 🎀 Francis Adrian Esteban 🎀
 ### 💻 Junior Computer Science Student | 🌾 AgriTech Enthusiast
+<sup><small>*Tres Marias 
+<br/>
+Chuaya & Adi*</small></sup>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;I+am+Building+Tech+Solutions;for+Agriculture+%26+Health;Student+Leader;Student+Developer" alt="Typing SVG" />
 
