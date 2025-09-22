@@ -116,20 +116,6 @@ Personal Email
 
 ---
 
-## Key Achievements
-
-<div align="center">
-
-**Research Paper Published** - Urban Evacuation Routing Systems  
-**Computer Science Student** - USTP Cagayan de Oro  
-**Active Researcher** - AgriTech & Urban Planning  
-**Open Source Contributor** - GitHub Skills Program Graduate  
-**Student Leader** - Community Engagement & Development
-
-</div>
-
----
-
 ## Featured Projects
 
 <div align="center">
