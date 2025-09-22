@@ -155,10 +155,13 @@ Personal Email
 </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" title="React | Next.js | Node.js | Express.js" />
+<img src="https://skillicons.dev/icons?i=react,nextjs" title="React | Next.js" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" title="Node.js | Express.js" />
 <br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas" />
+  <br/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" title="Matplotlib" />
 </p>
 
