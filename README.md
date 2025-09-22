@@ -1,8 +1,21 @@
 <div align="center">
-  
-# Francis Adrian Esteban
-### Junior Computer Science Student | AgriTech Enthusiast | Student Leader | Researcher
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+Solutions;for+Agriculture+and+Health;Student+Leader;Student+Developer;Researcher" alt="Typing SVG" />
+
+<div itemscope itemtype="https://schema.org/Person">
+
+# <span itemprop="name">Francis Adrian Esteban</span>
+### <span itemprop="jobTitle">Junior Computer Science Student</span> | <span itemprop="knowsAbout">AgriTech Enthusiast</span> | Student Leader | Researcher
+
+<meta itemprop="description" content="Computer Science student specializing in agricultural technology solutions and urban evacuation systems">
+<meta itemprop="url" content="https://github.com/AdiFranDev">
+<meta itemprop="sameAs" content="https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/">
+
+</div>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+Solutions;for+Agriculture+and+Health;Student+Leader;Student+Developer;Researcher" 
+  alt="Animated text displaying: Hi There! Welcome to my GitHub Profile! Building Tech Solutions for Agriculture and Health, Student Leader, Student Developer, Researcher"
+  role="img"
+  aria-label="Dynamic introduction text animation"
+/>
 
 </div>
 
@@ -112,7 +125,16 @@ Personal Email
 
 ## Technical Skills
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<div align="center">
+
 ### Programming Languages (Currently Learning)
+
+</div>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c" title="Python | C++ | C" />
 <br/>
@@ -123,7 +145,15 @@ Personal Email
 <img src="https://img.shields.io/badge/MARS_Assembly-FF6B35?style=for-the-badge&logo=assembly&logoColor=white" alt="MARS Assembly" title="MARS Assembly (MIPS)" />
 </p>
 
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+
 ### Frameworks & Libraries (Exploring)
+
+</div>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" title="React | Next.js | Node.js | Express.js" />
 <br/>
@@ -132,14 +162,32 @@ Personal Email
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" title="Matplotlib" />
 </p>
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<div align="center">
+
 ### Databases & Backend (Learning)
+
+</div>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb" title="MySQL | Supabase | MongoDB" />
 <br/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" title="MariaDB" />
 </p>
 
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+
 ### Machine Learning & AI (Interested & Exploring)
+
+</div>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" title="TensorFlow | PyTorch" />
 <br/>
@@ -148,12 +196,45 @@ Personal Email
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" title="OpenCV" />
 </p>
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<div align="center">
+
 ### Cloud & Deployment
+
+</div>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,vercel" title="AWS | Vercel" />
 </p>
 
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+
+### Development Tools
+
+</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker" title="Git | GitHub | VS Code | npm | Docker" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
 ### Operating Systems
+
+</div>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=windows,linux" title="Windows | Linux" />
 <br/>
@@ -162,10 +243,9 @@ Personal Email
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" title="Ubuntu" />
 </p>
 
-### Development Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker" title="Git | GitHub | VS Code | npm | Docker" />
-</p>
+</td>
+</tr>
+</table>
 
 </div>
 
