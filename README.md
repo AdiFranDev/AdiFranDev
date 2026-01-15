@@ -6,6 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="80" alt="Nyan Cat"/>](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+for+Agriculture+%26+Health;Student+Leader+%7C+Student+Developer+%7C+Researcher;Exploring+AI+and+Machine+Learning;Creating+Sustainable+Technology+Solutions" alt="Typing SVG" />
 
 **CS Student** • **AgriTech Enthusiast** • **Researcher**
@@ -13,6 +14,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/AdiFranDev/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/)
 [![Research](https://img.shields.io/badge/Preprint-Research-orange?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)
+
+
+[![Personal Email](https://img.shields.io/badge/📧_Personal-francisesteban340@gmail.com-FF69B4?style=flat-square)](francisesteban340@gmail.com)
+
+
+[![School Email](https://img.shields.io/badge/🎓_School-francisadrian.esteban@1.ustp.edu.ph-4A90D9?style=flat-square)](mailto:francisadrian.esteban@1.ustp.edu.ph)
+[![Alt School Email](https://img.shields.io/badge/🎓_Alt_School-estebanfrancisadrian@gmail.com-4A90D9?style=flat-square)](mailto:estebanfrancisadrian@gmail.com)
 
 </div>
 
