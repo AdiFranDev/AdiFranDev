@@ -123,6 +123,4 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 
 <sup>Tres Marias • Tope & Ella<br/>Chuaya 💝 Adi</sup>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=120&section=footer)
-
 </div>
