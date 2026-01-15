@@ -1,62 +1,102 @@
 <div align="center">
 
-<div itemscope itemtype="https://schema.org/Person">
+[<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="80" alt="Nyan Cat"/>](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=45&duration=4000&pause=1000&color=4A90D9&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Francis+Adrian+Esteban" alt="Name" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="80" alt="Nyan Cat"/>](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
-# <span itemprop="name">Francis Adrian Esteban</span>
-### <span itemprop="jobTitle">Junior Computer Science Student</span> | <span itemprop="knowsAbout">AgriTech Enthusiast</span> | Student Leader | Researcher
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+for+Agriculture+%26+Health;Student+Leader+%7C+Student+Developer+%7C+Researcher;Exploring+AI+and+Machine+Learning;Creating+Sustainable+Technology+Solutions" alt="Typing SVG" />
 
-<meta itemprop="description" content="Computer Science student">
-<meta itemprop="url" content="https://github.com/AdiFranDev">
-<meta itemprop="sameAs" content="https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/">
+**CS Student** • **AgriTech Enthusiast** • **Researcher**
 
-</div>
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+Solutions+for+Agriculture+and+Health;Student+Leader+%7C+Developer+%7C+Researcher;Exploring+AI+and+Machine+Learning;Creating+Sustainable+Technology+Solutions"
-  alt="Animated text displaying: Hi There! Welcome to my GitHub Profile! Building Tech Solutions for Agriculture and Health, Student Leader, Student Developer, Researcher, Exploring AI & Machine Learning"
-  role="img"
-  aria-label="Dynamic introduction text animation"
-/>
-
----
-
-## About Me
-
-<div align="center">
-
-> *"Bridging technology, agriculture, and health for a sustainable future"*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/AdiFranDev/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/)
+[![Research](https://img.shields.io/badge/Preprint-Research-orange?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)
 
 </div>
 
-**Currently studying:** Junior Computer Science Student at the University of Science and Technology of Southern Philippines - Cagayan de Oro Campus
-
-**Interests:** Software Engineering, Machine Learning, Student Leadership, Tech for Agriculture & Health, Open Source Development, & Research
-
-**Mission:** Creating innovative solutions that make a difference in agriculture, healthcare, and contributing to research
-
-**Location:** Cagayan de Oro, Philippines
-
 ---
 
-## Currently Working On
+## 🚀 Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### **Active Projects**
-- **Machine Learning**: Exploring logistic regression and data analysis
-- **Algorithm Visualization**: FIFO/LRU cache replacement GUI
-- **Web Development**: Personal portfolio with React & Next.js
-- **System Design**: USTP Guidance Services appointment system
+### [Urban Evacuation Routing System](https://github.com/AdiFranDev/Capacity-Scaled-Edmonds-Karp-Algorithm/tree/main/CSEK%20FINAL)
+Graph algorithms + OpenStreetMap data for disaster preparedness in Cagayan de Oro  
+`Python` `Algorithms` `Research`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### **Current Learning Focus**
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
-- **Frontend**: Advanced React patterns, UI/UX design
-- **Backend**: Node.js, Express.js, database optimization
-- **Data Science**: NumPy, Pandas, Matplotlib visualization
+### [Cache Algorithm Visualizer](https://github.com/AdiFranDev/guiFifoLru)
+Interactive FIFO/LRU visualization tool for CS education  
+`Python` `Tkinter` `GUI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AutoMotif_v2.1](https://github.com/AdiFranDev/AutoMotif_v2.1.git)
+A DNA and RNA sequence analysis tool featuring multiple pattern matching algorithms and motif detection capabilities.  
+`C++17` `Visual Studio Community` `Automata Theory`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔨 Currently Building
+- Personal Portfolio (React/Next.js)
+- Agricultural Innovation Platform
+- ML Projects with TensorFlow/PyTorch
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td>
+
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" alt="Cat Coding"/>
+
+</td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-007ACC?style=flat&logo=visualstudio&logoColor=white)
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Cat Typing"/>
 
 </td>
 </tr>
@@ -66,169 +106,12 @@
 
 <div align="center">
 
-## Academic & Professional
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiFranDev&show_icons=true&theme=radical&hide_border=true&hide=contribs&count_private=true)
 
-**University of Science and Technology of Southern Philippines**  
-*Computer Science Program | Cagayan de Oro Campus*
+![Views](https://komarev.com/ghpvc/?username=AdiFranDev&color=FF69B4&style=flat-square)
 
-**Proud Member of [GitHub Education](https://education.github.com/)**  
-*Empowering students to build and learn with real-world tools*
+<sub>🎓 USTP - Cagayan de Oro • GitHub Education Member</sub>
 
-<img src="https://img.shields.io/badge/GitHub-Student_Pack-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student" />
-<img src="https://img.shields.io/badge/Status-Active_Learner-success?style=for-the-badge" alt="Active Learner" />
+<sup>Tres Marias • Tope & Ella<br/>Chuaya 💝 Adi</sup>
 
 </div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-### Urban Evacuation Routing System for Cagayan de Oro
-*Completed Research Project - Comprehensive evacuation routing system for Downtown District 2 using advanced graph algorithms and real-world geographic data*
-
-**[GitHub Repository](https://github.com/AdiFranDev/Capacity-Scaled-Edmonds-Karp-Algorithm/tree/main/CSEK%20FINAL)** | **[Research Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)**
-
-<img src="https://img.shields.io/badge/Algorithm-Capacity_Scaled_Edmonds_Karp-28a745?style=for-the-badge&logo=github&logoColor=white" alt="CSEK Algorithm" />
-<img src="https://img.shields.io/badge/Data_Source-OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
-<img src="https://img.shields.io/badge/Status-Research_Published-success?style=for-the-badge&logo=academia&logoColor=white" alt="Research Published" />
-
-*Features: OpenStreetMap data processing pipeline, interactive web visualization, real-world evacuation flow modeling, and comprehensive urban disaster preparedness solution*
-
----
-
-### FIFO/LRU Cache Replacement Algorithm Visualizer
-*Recent Project - Interactive GUI application demonstrating cache replacement algorithms with real-time visualization*
-
-**[GitHub Repository](https://github.com/AdiFranDev/guiFifoLru)** | *Python GUI Application*
-
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/GUI-Tkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter GUI" />
-<img src="https://img.shields.io/badge/Algorithm-Cache_Replacement-4CAF50?style=for-the-badge&logo=algorithm&logoColor=white" alt="Cache Algorithms" />
-
-*Features: Interactive visualization of FIFO and LRU algorithms, educational tool for computer science concepts, real-time algorithm comparison*
-
----
-
-### Machine Learning Exploration
-*Current Learning - Hands-on practice with logistic regression and data analysis techniques*
-
-**[GitHub Repository](https://github.com/AdiFranDev/Logistic-Regression)** | *Forked Learning Project*
-
-<img src="https://img.shields.io/badge/ML-Logistic_Regression-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Logistic Regression" />
-<img src="https://img.shields.io/badge/Data_Science-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Science" />
-<img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge&logo=github&logoColor=white" alt="Learning" />
-
----
-
-### GCS Management and Landing Page System
-*Collaborative Project - Contributing to a comprehensive guidance counseling system with modern web technologies*
-
-**[GitHub Repository](https://github.com/cjohnramirez/GCS-Management-and-Landing-Page-System)** | *Team Collaboration*
-
-<img src="https://img.shields.io/badge/Role-Contributor-blue?style=for-the-badge&logo=github&logoColor=white" alt="Contributor" />
-<img src="https://img.shields.io/badge/Type-Web_Application-green?style=for-the-badge&logo=web&logoColor=white" alt="Web Application" />
-<img src="https://img.shields.io/badge/Status-Active_Development-orange?style=for-the-badge&logo=github&logoColor=white" alt="Active Development" />
-
-*Features: Student management system, appointment scheduling, responsive design, and comprehensive counseling service integration*
-
-</div>
-
----
-
-## Under Development Projects
-
-<div align="center">
-
-### Personal Portfolio Website
-*In Development - Interactive showcase of my journey, projects, and skills - featuring responsive design, dark/light themes, and seamless user experience*
-
-**[GitHub Repository](https://github.com/AdiFranDev/portfolio)** | *Live Demo Coming Soon*
-
-<img src="https://img.shields.io/badge/Built_with-React_&_Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Built with React & Next.js" />
-<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=github&logoColor=white" alt="In Development" />
-
-### Agricultural Innovation Hub
-*Coming Soon - A comprehensive platform connecting farmers with modern agricultural technology and data-driven insights*
-
-### Guidance Services Unit Appointment System
-*In Development - A web-based appointment booking system for USTP's Guidance Services Unit, featuring real-time scheduling, resource management, and student accessibility improvements*
-
-<img src="https://img.shields.io/badge/More_projects_coming_soon...-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="More Projects Coming Soon" />
-
-</div>
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-
-### Frameworks & Libraries
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Data Science & ML
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-
-### Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Supabase](https://skillicons.dev/icons?i=supabase)
-
-### Tools & Cloud
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-
-### Operating Systems
-![Windows](https://skillicons.dev/icons?i=windows)
-![Linux](https://skillicons.dev/icons?i=linux)
-
-</div>
-
----
-
-<div align="center">
-<sup><small>Tres Marias
-<br/>
-  Tope & Ella
-</small></sup>
-</div>
-
-<div align="center">
-<sup><small>Chuaya 💝 Adi</small></sup>
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AdiFranDev&color=FF69B4&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/AdiFranDev?style=for-the-badge&color=FF69B4)
-![GitHub User's stars](https://img.shields.io/github/stars/AdiFranDev?style=for-the-badge&color=FF69B4)
-
-</div>
-
----
