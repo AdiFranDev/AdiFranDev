@@ -14,18 +14,18 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/AdiFranDev/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/)
 [![Research](https://img.shields.io/badge/Preprint-Research-orange?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)
-
-
-[![Personal](https://img.shields.io/badge/Personal-francisesteban340@gmail.com-C71585?style=for-the-badge)](mailto:francisesteban340@gmail.com)
-[![Personal](https://img.shields.io/badge/Alt-estebanfrancisadrian@gmail.com-C71585?style=for-the-badge)](mailto:estebanfrancisadrian@gmail.com)
-[![School](https://img.shields.io/badge/School-francisadrian.esteban@1.ustp.edu.ph-DB7093?style=for-the-badge)](mailto:francisadrian.esteban@1.ustp.edu.ph)
+<br>
+[![Gmail](https://img.shields.io/badge/Personal_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisesteban340@gmail.com)
+[![Gmail](https://img.shields.io/badge/Dev_Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:estebanfrancisadrian@gmail.com)
+<br>
+[![Gmail](https://img.shields.io/badge/School-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:francisadrian.esteban@1.ustp.edu.ph)
 
 </div>
 
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 </td>
 <td width="50%" valign="top">
 
-### 🔨 Currently Building
+### Currently Building
 - Personal Portfolio (React/Next.js)
 - Agricultural Innovation Platform
 - ML Projects with TensorFlow/PyTorch
@@ -65,7 +65,7 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
