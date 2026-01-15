@@ -66,32 +66,6 @@
 
 <div align="center">
 
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/francis.adrian.141185" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.instagram.com/adriannotsosmol_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<br/>
-<a href="mailto:francisadrian.esteban@1.ustp.edu.ph" target="_blank">
-Academic Email
-</a>
-•
-<a href="mailto:estebanfrancisadrian@gmail.com" target="_blank">
-Personal Email
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## Academic & Professional
 
 **University of Science and Technology of Southern Philippines**  
@@ -187,226 +161,50 @@ Personal Email
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td colspan="4" align="center"><h3>Programming Languages</h3></td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-<br/><strong>Python</strong><br/>
-<img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
-<br/><strong>C++</strong><br/>
-<img src="https://geps.dev/progress/40?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="40%"/>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/>
-<br/><strong>C</strong><br/>
-<img src="https://geps.dev/progress/40?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="40%"/>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
-<br/><strong>JavaScript</strong><br/>
-<img src="https://geps.dev/progress/30?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="30%"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-<br/><strong>Java</strong><br/>
-<img src="https://geps.dev/progress/40?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="40%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
-<br/><strong>TypeScript</strong><br/>
-<img src="https://geps.dev/progress/40?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="40%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
-<br/><strong>HTML5</strong><br/>
-<img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
-<br/><strong>CSS3</strong><br/>
-<img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-</tr>
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 
-<tr>
-<td colspan="4" align="center"><h3>Frameworks & Libraries</h3></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
-<br/><strong>React</strong><br/>
-<img src="https://geps.dev/progress/30?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="30%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-<br/><strong>Next.js</strong><br/>
-<img src="https://geps.dev/progress/20?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="20%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
-<br/><strong>Node.js</strong><br/>
-<img src="https://geps.dev/progress/20?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="20%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js"/>
-<br/><strong>Express.js</strong><br/>
-<img src="https://geps.dev/progress/20?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="20%"/>
-</td>
-</tr>
+### Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-<tr>
-<td colspan="4" align="center"><h3>Data Science & Machine Learning</h3></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow"/>
-<br/><strong>TensorFlow</strong><br/>
-<img src="https://geps.dev/progress/10?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="10%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"/>
-<br/><strong>PyTorch</strong><br/>
-<img src="https://geps.dev/progress/20?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="20%"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<br/><img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<br/><img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<br/><img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<br/><img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<br/><img src="https://geps.dev/progress/60?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="60%"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-<br/><img src="https://geps.dev/progress/40?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="40%"/>
-</td>
-</tr>
+### Data Science & ML
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 
-<tr>
-<td colspan="4" align="center"><h3>Databases & Backend</h3></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
-<br/><strong>MySQL</strong><br/>
-<img src="https://geps.dev/progress/60?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="60%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/>
-<br/><strong>Supabase</strong><br/>
-<img src="https://geps.dev/progress/10?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="10%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
-<br/><strong>MongoDB</strong><br/>
-<img src="https://geps.dev/progress/20?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="20%"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-<br/><img src="https://geps.dev/progress/60?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="60%"/>
-</td>
-</tr>
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 
-<tr>
-<td colspan="4" align="center"><h3>Development Tools & Cloud</h3></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-<br/><strong>Git</strong><br/>
-<img src="https://geps.dev/progress/60?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="60%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
-<br/><strong>GitHub</strong><br/>
-<img src="https://geps.dev/progress/70?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="70%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/>
-<br/><strong>VS Code</strong><br/>
-<img src="https://geps.dev/progress/70?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="70%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
-<br/><strong>Docker</strong><br/>
-<img src="https://geps.dev/progress/10?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="10%"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm"/>
-<br/><strong>npm</strong><br/>
-<img src="https://geps.dev/progress/50?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="50%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
-<br/><strong>AWS</strong><br/>
-<img src="https://geps.dev/progress/30?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="30%"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel"/>
-<br/><strong>Vercel</strong><br/>
-<img src="https://geps.dev/progress/20?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="20%"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Assembly-FF6B35?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly"/>
-<br/><img src="https://geps.dev/progress/25?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="25%"/>
-</td>
-</tr>
+### Tools & Cloud
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
-<tr>
-<td colspan="4" align="center"><h3>Operating Systems</h3></td>
-</tr>
-<tr>
-<td colspan="4" align="center">
-<table style="margin: 0 auto;">
-<tr>
-<td align="center" style="padding: 0 20px;">
-<img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="Windows"/>
-<br/><strong>Windows 11</strong><br/>
-<img src="https://geps.dev/progress/70?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="70%"/>
-</td>
-<td align="center" style="padding: 0 20px;">
-<img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/>
-<br/><strong>Linux Mint</strong><br/>
-<img src="https://geps.dev/progress/30?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="30%"/>
-</td>
-<td align="center" style="padding: 0 20px;">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<br/><img src="https://geps.dev/progress/20?dangerColor=800909&warningColor=ff9500&successColor=3fb950" alt="20%"/>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-</table>
+### Operating Systems
+![Windows](https://skillicons.dev/icons?i=windows)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 </div>
 
