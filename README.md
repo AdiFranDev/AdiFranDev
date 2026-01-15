@@ -42,6 +42,9 @@ Graph algorithms + OpenStreetMap data for disaster preparedness in Cagayan de Or
 Interactive FIFO/LRU visualization tool for CS education  
 `Python` `Tkinter` `GUI`
 
+<p>&nbsp;</p>
+
+
 </td>
 </tr>
 <tr>
@@ -58,6 +61,11 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 - Personal Portfolio (React/Next.js)
 - Agricultural Innovation Platform
 - ML Projects with TensorFlow/PyTorch
+- AI-Driven Sytem for my Thesis
+- Start-Up
+  
+<p>&nbsp;</p>
+
 
 </td>
 </tr>
