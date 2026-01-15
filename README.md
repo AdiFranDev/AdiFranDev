@@ -16,13 +16,12 @@
 [![Research](https://img.shields.io/badge/Preprint-Research-orange?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)
 
 
-[![Personal Email](https://img.shields.io/badge/📧_Personal-francisesteban340@gmail.com-FF69B4?style=flat-square)](francisesteban340@gmail.com)
-
-
-[![School Email](https://img.shields.io/badge/🎓_School-francisadrian.esteban@1.ustp.edu.ph-4A90D9?style=flat-square)](mailto:francisadrian.esteban@1.ustp.edu.ph)
-[![Alt School Email](https://img.shields.io/badge/🎓_Alt_School-estebanfrancisadrian@gmail.com-4A90D9?style=flat-square)](mailto:estebanfrancisadrian@gmail.com)
+[![Personal](https://img.shields.io/badge/Personal-francisesteban340@gmail.com-C71585?style=for-the-badge)](mailto:francisesteban340@gmail.com)
+[![Personal](https://img.shields.io/badge/Alt-estebanfrancisadrian@gmail.com-C71585?style=for-the-badge)](mailto:estebanfrancisadrian@gmail.com)
+[![School](https://img.shields.io/badge/School-francisadrian.esteban@1.ustp.edu.ph-DB7093?style=for-the-badge)](mailto:francisadrian.esteban@1.ustp.edu.ph)
 
 </div>
+
 
 ---
 
