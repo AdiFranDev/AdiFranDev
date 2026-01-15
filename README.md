@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+for+Agriculture+%26+Health;Student+Leader+%7C+Student+Developer+%7C+Researcher;Exploring+AI+and+Machine+Learning;Creating+Sustainable+Technology+Solutions" alt="Typing SVG" />
 
-**CS Student** • **AgriTech Enthusiast** • **Researcher**
+**KomSay Bugsay** • **AgriTech Enthusiast** • **Researcher** • **Scholar**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/AdiFranDev/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/)
@@ -94,6 +94,7 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -121,5 +122,7 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 <sub>🎓 USTP - Cagayan de Oro • GitHub Education Member</sub>
 
 <sup>Tres Marias • Tope & Ella<br/>Chuaya 💝 Adi</sup>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=120&section=footer)
 
 </div>
