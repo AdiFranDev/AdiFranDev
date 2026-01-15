@@ -5,7 +5,7 @@
 # <span itemprop="name">Francis Adrian Esteban</span>
 ### <span itemprop="jobTitle">Junior Computer Science Student</span> | <span itemprop="knowsAbout">AgriTech Enthusiast</span> | Student Leader | Researcher
 
-<meta itemprop="description" content="Computer Science student specializing in agricultural technology solutions, machine learning, and urban evacuation systems">
+<meta itemprop="description" content="Computer Science student">
 <meta itemprop="url" content="https://github.com/AdiFranDev">
 <meta itemprop="sameAs" content="https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/">
 
@@ -16,15 +16,6 @@
   role="img"
   aria-label="Dynamic introduction text animation"
 />
-
-</div>
-
-<div align="center">
-
-## Quick Navigation
-[About](#about-me) • [Projects](#featured-projects) • [Skills](#technical-skills) • [Stats](#github-statistics) • [Contact](#connect-with-me) • [Current Focus](#currently-working-on)
-
-</div>
 
 ---
 
@@ -40,7 +31,7 @@
 
 **Interests:** Software Engineering, Machine Learning, Student Leadership, Tech for Agriculture & Health, Open Source Development, & Research
 
-**Mission:** Creating innovative solutions that make a difference in agriculture, healthcare, and urban planning
+**Mission:** Creating innovative solutions that make a difference in agriculture, healthcare, and contributing to research
 
 **Location:** Cagayan de Oro, Philippines
 
@@ -416,70 +407,6 @@ Personal Email
 </tr>
 
 </table>
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdiFranDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-</td>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiFranDev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiFranDev&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiFranDev&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdiFranDev&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Let's Collaborate!
-
-<div align="center">
-
-**Open to research collaborations in AgriTech**  
-**Interested in sustainable technology projects**  
-**Exploring AI/ML applications in agriculture**  
-**Reach out for student leadership opportunities**  
-**Always ready to learn and contribute to meaningful projects**
-
-</div>
-
----
-
-## Fun Facts
-
-<div align="center">
-
-**Currently exploring**: The intersection of AI and sustainable agriculture  
-**Learning goal**: Master full-stack development and machine learning  
-**Beyond coding**: Student leadership and community engagement  
-**Dream project**: Building technology that feeds the world sustainably
 
 </div>
 
