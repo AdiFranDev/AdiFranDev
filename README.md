@@ -128,6 +128,8 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 
 ![Views](https://komarev.com/ghpvc/?username=AdiFranDev&color=FF69B4&style=flat-square)
 
+---
+
 <sub>🎓 USTP - Cagayan de Oro • GitHub Education Member</sub>
 
 <sup>Tres Marias • Tope & Ella<br/>Chuaya 💝 Adi</sup>
