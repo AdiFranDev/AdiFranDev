@@ -130,8 +130,6 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdiFranDev&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdiFranDev&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=FF69B4&bg_color=0d1117)
 
 ![Views](https://komarev.com/ghpvc/?username=AdiFranDev&color=FF69B4&style=flat-square)
