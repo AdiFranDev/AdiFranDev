@@ -39,15 +39,25 @@
 <td width="50%" valign="top">
 
 ### [Urban Evacuation Routing System](https://github.com/AdiFranDev/Capacity-Scaled-Edmonds-Karp-Algorithm/tree/main/CSEK%20FINAL)
-Graph algorithms + OpenStreetMap data for disaster preparedness in Cagayan de Oro  
-`Python` `Algorithms` `Research`
+Graph algorithms + OpenStreetMap data for disaster preparedness in Cagayan de Oro
+<br>
+
+
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=3776AB)
+![Algorithms](https://img.shields.io/badge/Algorithm-white?style=flat-square)
+![Research](https://img.shields.io/badge/Research-white?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Cache Algorithm Visualizer](https://github.com/AdiFranDev/guiFifoLru)
-Interactive FIFO/LRU visualization tool for CS education  
-`Python` `Tkinter` `GUI`
+Interactive FIFO/LRU visualization tool for CS education
+<br>
+
+
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=3776AB)
+![Tkinter](https://img.shields.io/badge/Tkinter-white?style=flat-square)
+![GUI](https://img.shields.io/badge/GUI-white?style=flat-square)
 
 <p>&nbsp;</p>
 
@@ -58,8 +68,13 @@ Interactive FIFO/LRU visualization tool for CS education
 <td width="50%" valign="top">
 
 ### [AutoMotif_v2.1](https://github.com/AdiFranDev/AutoMotif_v2.1.git)
-A DNA and RNA sequence analysis tool featuring multiple pattern matching algorithms and motif detection capabilities.  
-`C++17` `Visual Studio Community` `Automata Theory`
+A DNA and RNA sequence analysis tool featuring multiple pattern matching algorithms and motif detection capabilities.
+<br>
+
+
+![C++ 17](https://img.shields.io/badge/C++-white?style=flat-square&logo=cplusplus&logoColor=3776AB)
+![Visual Studio Community](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-white.svg?&logo=visualstudio&logoColor=5C2D91)
+![Automata Theory](https://img.shields.io/badge/Automata_Theory-white?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
