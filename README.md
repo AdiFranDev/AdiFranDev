@@ -12,7 +12,7 @@
 **KomSay Bugsay** • **AgriTech Enthusiast** • **Researcher** • **Scholar**
 
 <!-- Professional Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/AdiFranDev/portfolio)
+[![Portfolio](https://img.shields.io/badge/Professional_Portfolio-FF69B4?style=for-the-badge)](francis-adrian-professional-portfol.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/)
 [![Research](https://img.shields.io/badge/Preprint-Research-orange?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)
 
