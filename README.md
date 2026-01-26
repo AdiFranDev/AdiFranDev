@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+for+Agriculture+%26+Health;Student+Leader+%7C+Student+Developer+%7C+Researcher+%7C+Scholar;Exploring+AI+and+Machine+Learning;Creating+Sustainable+Technology+Solutions" alt="Typing SVG" />
 
-**KomSay Bugsay** • **AgriTech Enthusiast** • **Researcher** • **Scholar**
+**KomSay Bugsay** • **AgriTech Innovator** • **Researcher** • **Scholar**
 
 <!-- Professional Links -->
 [![Portfolio](https://img.shields.io/badge/Professional_Portfolio-FF69B4?style=for-the-badge)](https://francis-adrian-professional-portfol.vercel.app)
