@@ -1,110 +1,87 @@
+
 <div align="center">
 
 [<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="80" alt="Nyan Cat"/>](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=45&duration=4000&pause=1000&color=4A90D9&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Francis+Adrian+Esteban" alt="Name" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=1000&pause=500&color=4A90D9&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Francis+Adrian+Esteban" alt="Name" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="80" alt="Nyan Cat"/>](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Building+Tech+for+Agriculture+%26+Health;Student+Leader+%7C+Student+Developer+%7C+Researcher+%7C+Scholar;Exploring+AI+and+Machine+Learning;Creating+Sustainable+Technology+Solutions" alt="Typing SVG" />
-
-**KomSay Bugsay** • **AgriTech Innovator** • **Researcher** • **Scholar**
-
-<!-- Professional Links -->
-[![Portfolio](https://img.shields.io/badge/Professional_Portfolio-FF69B4?style=for-the-badge)](https://francis-adrian-professional-portfol.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/)
-[![Research](https://img.shields.io/badge/Preprint-Research-orange?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370429)
-
-<!-- Email Contacts -->
-[![Personal Gmail](https://img.shields.io/badge/Personal_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisesteban340@gmail.com)
-[![School Email](https://img.shields.io/badge/School_Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisadrian.esteban@1.ustp.edu.ph)
-[![Dev Gmail](https://img.shields.io/badge/Dev_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanfrancisadrian@gmail.com)
-
-<!-- Social Media -->
-[![Facebook Main](https://img.shields.io/badge/Facebook_Main-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adriannotsobig)
-[![Facebook Alt](https://img.shields.io/badge/Facebook_Dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/francis.adrian.141185/)
-[![Instagram Main](https://img.shields.io/badge/Instagram_Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriannotsosmol_)
-[![Instagram Alt](https://img.shields.io/badge/Instagram_Alt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriannotsobig_)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+There! 👋;Let's connect and build something meaningful!;Maupay na Adlaw!;Isang makabatang Araw!;" alt="Typing SVG" />
 
 </div>
 
+---
+
+<div align="center">
+<br/>
+
+**AgriTech Aspirant Innovator** • **Student Developer** • **Researcher** • **Scholar** • **Volunteer**
+
+<p>
+
+<a href="https://francis-adrian-professional-portfol.vercel.app"><img src="https://img.shields.io/badge/Coming%20Soon-%20Portfolio-FF69B4?style=flat-square&labelColor=24292F&logo=Refined-Github&logoColor=white" alt="Portfolio"></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/esteban-francis-adrian-g-9304a4311/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:estebanfrancisadrian@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:francisadrian.esteban@1.ustp.edu.ph)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/adriannotsobig)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adriannotsosmol_)
+
+![Views](https://komarev.com/ghpvc/?username=AdiFranDev&color=FF69B4&style=flat-square)
+
+</p>
+
+</div>
 
 ---
 
-## Featured Work
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
+
+## Featured Projects
 
 ### [Urban Evacuation Routing System](https://github.com/AdiFranDev/Capacity-Scaled-Edmonds-Karp-Algorithm/tree/main/CSEK%20FINAL)
-Graph algorithms + OpenStreetMap data for disaster preparedness in Cagayan de Oro
-<br>
+Developed a disaster preparedness tool for Cagayan de Oro using graph algorithms and OpenStreetMap data to calculate optimal evacuation routes.
 
-
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=3776AB)
-![Algorithms](https://img.shields.io/badge/Algorithm-white?style=flat-square)
-![Research](https://img.shields.io/badge/Research-white?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [Cache Algorithm Visualizer](https://github.com/AdiFranDev/guiFifoLru)
-Interactive FIFO/LRU visualization tool for CS education
-<br>
-
-
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=3776AB)
-![Tkinter](https://img.shields.io/badge/Tkinter-white?style=flat-square)
-![GUI](https://img.shields.io/badge/GUI-white?style=flat-square)
-
-<p>&nbsp;</p>
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [AutoMotif_v2.1](https://github.com/AdiFranDev/AutoMotif_v2.1.git)
-A DNA and RNA sequence analysis tool featuring multiple pattern matching algorithms and motif detection capabilities.
-<br>
-
-
-![C++ 17](https://img.shields.io/badge/C++-white?style=flat-square&logo=cplusplus&logoColor=3776AB)
-![Visual Studio Community](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-white.svg?&logo=visualstudio&logoColor=5C2D91)
-![Automata Theory](https://img.shields.io/badge/Automata_Theory-white?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### Currently Building
-- Personal Portfolio (React/Next.js)
-- Agricultural Innovation Platform
-- ML Projects with TensorFlow/PyTorch
-- AI-Driven Sytem for my Thesis
-- Start-Up
-  
-<p>&nbsp;</p>
-
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OSMnx](https://img.shields.io/badge/OSMnx-E18A07?style=flat-square)
+![Research](https://img.shields.io/badge/Research-D13691?style=flat-square)
 
 ---
 
-## Tech Stack
+### [Cache Algorithm Visualizer](https://github.com/AdiFranDev/guiFifoLru)
+Created an interactive FIFO/LRU visualization tool with Python and Tkinter to help computer science students understand caching algorithms.
 
-<table>
-<tr>
-<td>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-2C5985?style=flat-square)
+![GUI](https://img.shields.io/badge/GUI-4B0082?style=flat-square)
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="180" alt="Cat Coding"/>
+---
+
+### [AutoMotif_v2.1.00](https://github.com/AdiFranDev/AutoMotif_v2.1.git)
+A DNA and RNA sequence analysis tool featuring multiple pattern matching algorithms and motif detection capabilities.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-0078d7.svg?logo=vsc&logoColor=white&style=flat-square)
+![Automata Theory](https://img.shields.io/badge/Automata-8A2BE2?style=flat-square)
+
+---
+
+### Currently Building
+- A personal portfolio website using **React** and **Next.js**.
+- An AgriTech platform to connect farmers with resources.
+- Exploring Machine Learning with **TensorFlow** and **PyTorch**.
+- Developing an AI-driven system for my undergraduate thesis.
+
+---
 
 </td>
-<td>
+<td width="35%" valign="top">
+
+## Tech Stack
 
 | Languages | Frameworks & Libraries | Tools & Platforms |
 |:---------:|:----------------------:|:-----------------:|
@@ -114,14 +91,20 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) | [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![SciPy](https://img.shields.io/badge/Scipy-blue?style=flat&logo=scipy) | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white) | ![PyQt](https://img.shields.io/badge/PyQt-blue?style=flat&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| ![ESP 32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) | ![SciPy](https://img.shields.io/badge/Scipy-blue?style=flat&logo=scipy) | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) |
+| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | ![PyQt](https://img.shields.io/badge/PyQt-blue?style=flat&logo=python&logoColor=white) | [![Tinkercad](https://img.shields.io/badge/Tinkercad-000000?style=flat&logo=tinkercad&logoColor=white)](#) |
 
-</td>
-<td>
+---
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cat Typing"/>
+## About Me
 
+- A student-scholar-volunteer-researcher at the University of Science and Technology of Southern Philippines (USTP) - Cagayan de Oro.
+- A 4-Her, A Youth Agvocate passionate about empowering young people through agriculture, technology, and leadership.
+- Enjoy building projects that uses simple opensource software and hardware to solve real-world problems.
+- Fueled by curiosity, continuous learning, and the pursuit of innovative solutions.
+
+---
+    
 </td>
 </tr>
 </table>
@@ -130,14 +113,40 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Coding Streak
+
+![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdiFranDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4)
+
+</td>
+<td width="33%" align="center">
+
+### GitHub Stats
+
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdiFranDev&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=FF69B4&bg_color=0d1117)
 
-![Views](https://komarev.com/ghpvc/?username=AdiFranDev&color=FF69B4&style=flat-square)
+</td>
+<td width="34%" align="center">
+
+### Productive Time
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdiFranDev&theme=radical)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<sub>🎓 USTP - Cagayan de Oro • GitHub Education Member</sub>
+<br/>
+
+<div align="center">
 
 <sup>Tres Marias • Tope & Ella<br/>Chuaya 💝 Adi</sup>
 
 </div>
+
