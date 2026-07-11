@@ -96,12 +96,29 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 
 ---
 
-## About Me
+## Profile
 
-- A student-scholar-volunteer-researcher at the University of Science and Technology of Southern Philippines (USTP) - Cagayan de Oro.
-- A 4-Her, A Youth Agvocate passionate about empowering young people through agriculture, technology, and leadership.
-- Enjoy building projects that uses simple opensource software and hardware to solve real-world problems.
-- Fueled by curiosity, continuous learning, and the pursuit of innovative solutions.
+Computer Science student at the University of Science and Technology of Southern Philippines (USTP) with interests in software engineering, artificial intelligence, agriculture technology, and community-driven innovation.
+
+### Focus Areas
+
+- Artificial Intelligence
+- Simple Open Source Software and Hardware Projects
+- AgriTech
+- Research and Development
+
+### Leadership & Community
+
+- Former Vice President, Computer Science Student Society (CS3)
+- 4-H Youth AgriYouth Advocate
+- Student-Leader-Volunteer
+
+### Current Goals
+
+- Building a professional portfolio
+- Expanding expertise in machine learning
+- Exploring hardware solutions like arduino and esp32
+- Creating technology solutions with social impact
 
 ---
     
