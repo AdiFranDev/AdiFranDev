@@ -8,7 +8,8 @@
 [<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="80" alt="Nyan Cat"/>](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+There! 👋;Let's connect and build something meaningful!;Maupay na Adlaw!;Isang makabatang Araw!;" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+There!;Let's+connect+and+build+something+meaningful!;Maupay+na+Adlaw!;Isang+makabatang+Araw!;)
+
 
 </div>
 
