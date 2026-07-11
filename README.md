@@ -75,9 +75,9 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 - A personal portfolio website using **React** and **Next.js**.
 - An AgriTech platform to connect farmers with resources.
 - Exploring Machine Learning with **TensorFlow** and **PyTorch**.
-- Developing an AI-driven system for my undergraduate thesis.
-- Currently an Intern at Fresco-Greenovations Inc. learning Agritech solutions for fast integration of technology in Agriculture
-- Building meaningful and scalable projects that are socially and hyperlocally relevant.
+- Developing an **AI-driven** system for my undergraduate thesis.
+- Currently an **Intern** at **Fresco-Greenovations Inc.** learning Agritech solutions for fast integration of technology in Agriculture.
+- Building **impactful** and **scalable** projects that are **socially** and **hyperlocally** relevant.
 
 ---
 
@@ -166,7 +166,7 @@ A Senior Computer Science student at the University of Science and Technology of
 
 <div align="center">
 
-<sup>Tres Marias • Tope & Ella<br/>Chuaya 💝 Adi</sup>
+<sup>**Tres Marias • Tope & Ella**<br/>**Chuaya 💝 Adi**</sup>
 
 </div>
 
