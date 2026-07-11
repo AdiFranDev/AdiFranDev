@@ -75,6 +75,8 @@ A DNA and RNA sequence analysis tool featuring multiple pattern matching algorit
 - An AgriTech platform to connect farmers with resources.
 - Exploring Machine Learning with **TensorFlow** and **PyTorch**.
 - Developing an AI-driven system for my undergraduate thesis.
+- Currently an Intern at Fresco-Greenovations Inc. learning Agritech solutions for fast integration of technology in Agriculture
+- Building meaningful and scalable projects that are socially and hyperlocally relevant.
 
 ---
 
