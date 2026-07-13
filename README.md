@@ -166,7 +166,23 @@ A Senior Computer Science student at the University of Science and Technology of
 
 <div align="center">
 
-<sup>**Tres Marias • Tope & Ella**<br/>**Chuaya 💝 Adi**</sup>
+<div style="text-align: center; line-height: 1.6; font-weight: bold;">
+  
+  <!-- First Line: Cat on Left, Text on Right -->
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 8px;">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" style="margin-right: 10px;">
+    <span>Tres Marias • Tope & Ella</span>
+    <div style="width: 50px; margin-left: 10px;"></div> <!-- Invisible spacer to keep text centered -->
+  </div>
+
+  <!-- Second Line: Text on Left, Cat on Right -->
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="width: 50px; margin-right: 10px;"></div> <!-- Invisible spacer to keep text centered -->
+    <span>Chuaya 💝 Adi</span>
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" style="margin-left: 10px;">
+  </div>
+
+</div>
 
 </div>
 
